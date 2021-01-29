@@ -228,7 +228,11 @@ Test 文件夹为测试过程中的废弃方案
 
 ### 笔记内容
 
+[物联网基础知识笔记](https://github.com/XupengSun/Calendar_Flynk/blob/main/Docs/%E7%89%A9%E8%81%94%E7%BD%91%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E7%AC%94%E8%AE%B0.md)
 
+[Node-MCU学习笔记](https://github.com/XupengSun/Calendar_Flynk/blob/main/Docs/Node-MCU%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
+
+[Altium designer使用笔记](https://github.com/XupengSun/Calendar_Flynk/blob/main/Docs/Altium%20Desinger%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0.md)
 
 ### 参考资料
 
