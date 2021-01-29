@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=SW1 Old Footprint=TSW DIP-3*6*5 New Footprint=TSW DIP-3*6*4.3
+Change Component Footprint: Designator=上/天气 Old Footprint=TSW DIP-3*6*5 New Footprint=TSW DIP-3*6*4.3
+Change Component Footprint: Designator=下/时钟 Old Footprint=TSW DIP-3*6*5 New Footprint=TSW DIP-3*6*4.3
+Change Component Designator: OldDesignator=上/天气 NewDesignator=SW2
+Change Component Designator: OldDesignator=下/时钟 NewDesignator=SW3
